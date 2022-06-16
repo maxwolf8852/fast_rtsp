@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 requirements = ["av>=9.2.0"]
 
 setuptools.setup(
-	name="fast_rtsp_maxwolf8852",
-	version="0.0.1",
+	name="fast_rtsp",
+	version="0.0.2",
 	author="Maxim Volkovskiy",
 	author_email="maxwolf8852@gmail.com",
 	description="Fast rtsp capture package",
